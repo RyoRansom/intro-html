@@ -58,7 +58,7 @@ ol {
 } 
 
 ol:before {
-    content: 'Quick links';
+    content: 'Who is this guy?';
     font-family: 'Permanent Marker', cursive;
     color: rgb(28, 33, 104);
     background-color: rgba(245, 233, 149, 0.5);
