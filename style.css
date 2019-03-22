@@ -77,6 +77,10 @@ li {
     padding-top: 10px;
 }
 
+li:nth-of-type(2) {
+background-color: rgba(100, 175, 225, 0.5);
+}
+
 a {
     color: rgb(28, 33, 104);
     display: inline-block;
